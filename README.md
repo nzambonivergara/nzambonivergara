@@ -2,13 +2,12 @@
 
 - 🌱 I’m currently learning front end development at Turing School of Software & Design.
 - 💬 Ask me about ...
-- 📫 How to reach me: nzamboniv@gmail.com 
+- 📫 How to reach me: nzamboniv@gmail.com or [https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png](www.linkedin.com/in/natalia-zamboni-vergara
+) 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
-[![linkedin logo
-](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](www.linkedin.com/in/natalia-zamboni-vergara
-) 
+
 
 
 [![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzambonivergara)](https://github.com/nzambonivergara/github-readme-stats)
