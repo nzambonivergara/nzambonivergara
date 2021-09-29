@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning front end development at Turing School of Software & Design.
 - 💬 Ask me about ...
 - 📫 How to reach me: nzamboniv@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
 [![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzambonivergara)](https://github.com/nzambonivergara/github-readme-stats)
 
 <!--
