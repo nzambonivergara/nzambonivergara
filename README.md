@@ -6,8 +6,9 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
-![www.linkedin.com/in/natalia-zamboni-vergara
-](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png) 
+[![linkedin logo
+](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](www.linkedin.com/in/natalia-zamboni-vergara
+) 
 
 
 [![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzambonivergara)](https://github.com/nzambonivergara/github-readme-stats)
