@@ -10,4 +10,5 @@
 - 📫 How to reach me: nzamboniv@gmail.com or on [LinkedIn](www.linkedin.com/in/natalia-zamboni-vergara) 
 
 
-[![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzambonivergara)](https://github.com/nzambonivergara/github-readme-stats)
+![Natalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzambonivergara&show_icons=true&theme=radical)
+
