@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Front End Development Student at Turing School of Software & Design
+- 🌱 Front End Developer completing a certificate at Turing School of Software & Design
 - 🇬🇹 Made in Guatemala
 - 🧩 Lover of puzzles and organization
 - 😄 Pronouns: she/her
